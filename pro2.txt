@@ -1,0 +1,12 @@
+// To Store your name and then print 
+
+class Name
+{
+	
+public static void main(String[]args)
+{
+String a="Aakash";
+System.out.print("My name is: "+a);
+}
+
+}
